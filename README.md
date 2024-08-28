@@ -1,4 +1,4 @@
-### Recovery of Zinc from Electric Arc Furnace - GitHub Overview
+### Recovery of Zinc from Electric Arc Furnace
 
 **Project Name:** Recovery of Zinc from Electric Arc Furnace
 
